@@ -2,11 +2,11 @@
 
 
 /**
- *main - entry point
+ * main - entry point
  *
- *Description: A C program that prints Data sizes
+ * Description: A C program that prints Data sizes
  *
- *Return: Always 0 (Success)
+ * Return: Always 0 (Success)
 */
 
 int main(void)
