@@ -14,7 +14,7 @@ int main(void)
 	char ch = 'a';
 	char CH = 'A';
 	
-	/*print from a to z*/
+	/*print a-z*/
 
 	while (ch <= 'z')
 	{	
@@ -22,12 +22,14 @@ int main(void)
 		ch++;
 	}
 
-	/*print from A to Z*/
+	/*print A-Z*/
 	while (CH <= 'Z')
 	{
 		putchar(CH);
 		CH++;
 	}
 	putchar('\n');
+	
+	return (0);
 }	
 	
