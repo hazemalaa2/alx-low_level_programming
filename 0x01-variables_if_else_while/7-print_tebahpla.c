@@ -4,7 +4,7 @@
 /**
  *main - entry point
  *
- *Description: A C program that prints with put function
+ *Description:print in reverse
  *
  *Return: Always 0 (Success)
 */
@@ -18,7 +18,7 @@ int main(void)
 		putchar(ch);
 		ch--;
 	}
-	putchar('\n'):
+	putchar('\n');
 	
 	return (0);
 }
