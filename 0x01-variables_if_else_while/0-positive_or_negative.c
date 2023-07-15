@@ -5,7 +5,7 @@
 /**
  *main - entry point
  *
- *Description: Postive or negative 
+ *Description: Postive or negative
  *
  *Return: Always 0 (Success)
 */
@@ -20,7 +20,7 @@ int main(void)
 		printf("%i is positive\n", n);
 	else if (n == 0)
 		printf("%i is zero\n", n);
-	else 
+	else
 		printf("%i is negative\n", n);
 	return (0);
 }
