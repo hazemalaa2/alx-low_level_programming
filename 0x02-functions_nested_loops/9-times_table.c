@@ -1,4 +1,4 @@
-vi #include "main.h"
+#include "main.h"
 
 /**
  * times_table - entry point
