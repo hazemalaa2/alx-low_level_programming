@@ -1,9 +1,11 @@
 #include "main.h"
 
 /**
- * print_sign - entry point
+ * print_sign - print + if n is greater than zero.
+ * 		0 if n is zero and - if n is less
+ * 		than zero.
  *
- * @n: function 
+ * @n: takes integer type input for function
  *
  * Returns 1 if +, 0 if 0 and -1 if -
 */
