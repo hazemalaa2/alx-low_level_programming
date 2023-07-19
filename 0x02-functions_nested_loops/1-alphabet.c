@@ -1,8 +1,8 @@
-#include "main.h"
+#include"main.h"
 
 /**
  *main - entry point
- * 
+ *
  *Description: function
  *
  *Write a function that prints the alphabe.
