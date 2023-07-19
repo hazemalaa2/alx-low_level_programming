@@ -3,7 +3,7 @@
 /**
  * times_table - entry point
  *
- * example table 
+ * example table
  * 0, 0, 0, 0, ..
  * 0, 1, 2, 3, ..
 */
@@ -17,7 +17,7 @@ void times_table(void)
 		_putchar(48);
 		for (mult = 1; mult <= 9; mult++)
 		{
-			_putchar('.');
+			_putchar(',');
 			_putchar(' ');
 
 		prod = num * mult;
