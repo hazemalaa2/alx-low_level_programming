@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * isalpha - entry point
+ * _isalpha - entry point
  *
- * @c: function 
+ * @c: function
  *
  * Return: Always 0 (Success)
  * return 1 if c is letter
