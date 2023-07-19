@@ -3,8 +3,7 @@
 /**
  * main - entry point
  *
- * 
- * Description: function 
+ * Description: function
  *
  *Return: Always 0 (Success)
 */
