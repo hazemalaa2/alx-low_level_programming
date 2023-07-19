@@ -1,12 +1,8 @@
 #include"main.h"
 
 /**
- *main - entry point
- *
  *print_alphabet - function
- *
- *Write a function that prints the alphabe.
- *
+*
 */
 
 void print_alphabet(void)
