@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _add - entry point
+ * add - entry point
  *
  * @a: function
  * @b: ds
