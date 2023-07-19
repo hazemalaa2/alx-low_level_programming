@@ -3,7 +3,7 @@
 /**
  * print_last_digit - entry point
  *
- * @n: function 
+ * @n: function
  *
  * Return: LastDigit
 */
@@ -19,4 +19,4 @@ int print_last_digit(int n)
 
 	_putchar(LastDigit + '0');
 	return (LastDigit);
-}	
+}
