@@ -3,7 +3,7 @@
 /**
  *main - entry point
  *
- *Description: function
+ *print_alphabet - function
  *
  *Write a function that prints the alphabe.
  *
