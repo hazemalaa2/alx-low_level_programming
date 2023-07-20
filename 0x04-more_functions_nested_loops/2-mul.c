@@ -4,7 +4,7 @@
  * mul - entry point
  *
  * @a: function
- * 
+ *
  * @b: asq
  *Return: Always 0 (Success)
 */
