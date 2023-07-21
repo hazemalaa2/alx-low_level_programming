@@ -12,7 +12,7 @@ void print_line(int n)
 {
 	int lnChr;
 
-	for (n <= 0)
+	if (n <= 0)
 		putchar('\n');
 	else
 	{
