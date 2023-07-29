@@ -1,9 +1,9 @@
 #include "main.h"
 /**
  * _strncat - entry point
- * 
- * @dest: input 
- * @src: input 
+ *
+ * @dest: input
+ * @src: input
  * @n: input
  *
  * Return: dest
