@@ -3,7 +3,7 @@
 /**
  * wildcmp - Compare strings
  * @s1: input2
- * @s2: input 
+ * @s2: input
  * Return: 0
  */
 
